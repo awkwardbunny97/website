@@ -1,0 +1,14 @@
+/*
+Theme Name: foodfarm child theme
+Theme URI: 
+Description: Day la child theme cua foodfarm
+Author: Quang Anh
+Author URI:
+Template: foodfarm
+Version: 0.1
+*/
+@import url("../ foodfarm/style.css");
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap&subset=vietnamese');
+body {
+	font-family: 'Roboto', sans-serif;
+}
